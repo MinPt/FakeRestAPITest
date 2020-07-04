@@ -1,0 +1,20 @@
+[
+  {
+    "name" : "Uri's pizza",
+    "description": "big solami pizza",
+    "price": 69,
+    "imageURL": "./src/img/2.png"
+  },
+  {
+    "name" : "Hleb pizza",
+    "description": "Just dough",
+    "price": 1,
+    "imageURL": "../img/2.png"
+  },
+  {
+    "name" : "Yevgenip's pizza",
+    "description": "Shenkevich smell",
+    "price": 89,
+    "imageURL": "../img/3.png"
+  }
+]
