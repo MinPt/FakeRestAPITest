@@ -1,4 +1,4 @@
-[
+{
   {
     "name" : "Uri's pizza",
     "description": "big solami pizza",
@@ -17,4 +17,4 @@
     "price": 89,
     "imageURL": "../img/3.png"
   }
-]
+}
